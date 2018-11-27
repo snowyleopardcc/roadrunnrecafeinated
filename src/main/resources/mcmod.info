@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "roadrunner",
+  "name": "Road Runner Blocks",
+  "description": "Road Runner Blocks,  recaffeinated!",
+  "version": "2.0-beta",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["CC", "Thatcha"],
+  "credits": "Thatcha, the Forge and FML guys.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
